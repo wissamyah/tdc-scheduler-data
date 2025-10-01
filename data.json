@@ -206,6 +206,24 @@
       "lastUpdated": "2025-10-01T23:08:41.548Z",
       "towerLevel": 1,
       "username": "AddingMember"
+    },
+    {
+      "id": "member-1759360333624-gntju0hnp",
+      "username": "onetwothree",
+      "carPower": 3,
+      "towerLevel": 2,
+      "availability": {
+        "monday": [
+          "00-02"
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-01T23:12:13.625Z"
     }
   ]
 }
