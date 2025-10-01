@@ -4,5 +4,24 @@
     "initialized": true,
     "initDate": "2025-10-01T23:09:21.805Z"
   },
-  "members": []
+  "members": [
+    {
+      "id": "member-1759361105227-j39o1mxah",
+      "username": "Test1",
+      "carPower": 1,
+      "towerLevel": 1,
+      "availability": {
+        "monday": [
+          "04-06"
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-01T23:25:05.228Z"
+    }
+  ]
 }
