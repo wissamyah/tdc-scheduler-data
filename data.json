@@ -1,0 +1,8 @@
+ {
+    "auth": {
+      "passwordHash": null,
+      "initialized": false,
+      "initDate": null
+    },
+    "members": []
+  }
