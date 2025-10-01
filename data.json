@@ -170,6 +170,24 @@
         "sunday": []
       },
       "lastUpdated": "2025-10-01T22:58:25.070Z"
+    },
+    {
+      "availability": {
+        "friday": [],
+        "monday": [
+          "00-02"
+        ],
+        "saturday": [],
+        "sunday": [],
+        "thursday": [],
+        "tuesday": [],
+        "wednesday": []
+      },
+      "carPower": 22,
+      "id": "member-1759359820392-m0c25gn7b",
+      "lastUpdated": "2025-10-01T23:03:47.410Z",
+      "towerLevel": 10,
+      "username": "Mirna"
     }
   ]
 }
