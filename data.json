@@ -40,6 +40,25 @@
         "sunday": []
       },
       "lastUpdated": "2025-10-01T23:34:48.831Z"
+    },
+    {
+      "id": "member-1759362703232-7k9qtmlvs",
+      "username": "Test3",
+      "carPower": 3,
+      "towerLevel": 3,
+      "timezone": "Africa/Lagos",
+      "availability": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": [
+          "23-01"
+        ]
+      },
+      "lastUpdated": "2025-10-01T23:51:43.233Z"
     }
   ]
 }
