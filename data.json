@@ -76,6 +76,24 @@
       "lastUpdated": "2025-10-01T22:44:01.235Z",
       "towerLevel": 33,
       "username": "12345"
+    },
+    {
+      "availability": {
+        "friday": [],
+        "monday": [
+          "04-06"
+        ],
+        "saturday": [],
+        "sunday": [],
+        "thursday": [],
+        "tuesday": [],
+        "wednesday": []
+      },
+      "carPower": 444,
+      "id": "member-1759358896151-85zr3upzc",
+      "lastUpdated": "2025-10-01T22:48:16.152Z",
+      "towerLevel": 22,
+      "username": "tet333"
     }
   ]
 }
