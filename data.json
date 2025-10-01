@@ -22,6 +22,24 @@
       "lastUpdated": "2025-10-01T22:14:48.539Z",
       "towerLevel": 33,
       "username": "Falowyn"
+    },
+    {
+      "availability": {
+        "friday": [],
+        "monday": [
+          "00-02"
+        ],
+        "saturday": [],
+        "sunday": [],
+        "thursday": [],
+        "tuesday": [],
+        "wednesday": []
+      },
+      "carPower": 344,
+      "id": "member-1759356922726-23b3pcdic",
+      "lastUpdated": "2025-10-01T22:15:22.726Z",
+      "towerLevel": 33,
+      "username": "Test"
     }
   ]
 }
