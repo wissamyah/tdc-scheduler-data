@@ -152,6 +152,24 @@
       "lastUpdated": "2025-10-01T22:53:46.105Z",
       "towerLevel": 30,
       "username": "NewMember"
+    },
+    {
+      "id": "member-1759359505070-lttgg2hs7",
+      "username": "Wissam",
+      "carPower": 2.5,
+      "towerLevel": 15,
+      "availability": {
+        "monday": [
+          "00-02"
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-01T22:58:25.070Z"
     }
   ]
 }
