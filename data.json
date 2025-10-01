@@ -40,6 +40,24 @@
       "lastUpdated": "2025-10-01T22:15:22.726Z",
       "towerLevel": 33,
       "username": "Test"
+    },
+    {
+      "availability": {
+        "friday": [],
+        "monday": [],
+        "saturday": [],
+        "sunday": [],
+        "thursday": [
+          "12-14"
+        ],
+        "tuesday": [],
+        "wednesday": []
+      },
+      "carPower": 333,
+      "id": "member-1759358588412-lvqysyt1i",
+      "lastUpdated": "2025-10-01T22:43:08.412Z",
+      "towerLevel": 23,
+      "username": "Test4"
     }
   ]
 }
