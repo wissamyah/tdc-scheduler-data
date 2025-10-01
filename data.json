@@ -22,6 +22,24 @@
         "sunday": []
       },
       "lastUpdated": "2025-10-01T23:34:32.525Z"
+    },
+    {
+      "id": "member-1759361688830-uniweda8h",
+      "username": "Test2",
+      "carPower": 2,
+      "towerLevel": 2,
+      "availability": {
+        "monday": [
+          "04-06"
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-01T23:34:48.831Z"
     }
   ]
 }
