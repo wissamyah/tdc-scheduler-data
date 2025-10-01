@@ -188,6 +188,24 @@
       "lastUpdated": "2025-10-01T23:03:47.410Z",
       "towerLevel": 10,
       "username": "Mirna"
+    },
+    {
+      "availability": {
+        "friday": [],
+        "monday": [
+          "00-02"
+        ],
+        "saturday": [],
+        "sunday": [],
+        "thursday": [],
+        "tuesday": [],
+        "wednesday": []
+      },
+      "carPower": 900,
+      "id": "member-1759360121548-i4y9anp9t",
+      "lastUpdated": "2025-10-01T23:08:41.548Z",
+      "towerLevel": 1,
+      "username": "AddingMember"
     }
   ]
 }
