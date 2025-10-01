@@ -112,6 +112,46 @@
       "lastUpdated": "2025-10-01T22:49:00.875Z",
       "towerLevel": 21,
       "username": "abcde"
+    },
+    {
+      "availability": {
+        "friday": [
+          "02-04",
+          "10-12"
+        ],
+        "monday": [
+          "06-08",
+          "14-16",
+          "22-00"
+        ],
+        "saturday": [
+          "12-14",
+          "10-12"
+        ],
+        "sunday": [
+          "02-04",
+          "12-14"
+        ],
+        "thursday": [
+          "06-08",
+          "14-16",
+          "20-22"
+        ],
+        "tuesday": [
+          "06-08",
+          "14-16",
+          "22-00"
+        ],
+        "wednesday": [
+          "22-00",
+          "14-16"
+        ]
+      },
+      "carPower": 9999,
+      "id": "member-1759359226105-t4gwc480p",
+      "lastUpdated": "2025-10-01T22:53:46.105Z",
+      "towerLevel": 30,
+      "username": "NewMember"
     }
   ]
 }
