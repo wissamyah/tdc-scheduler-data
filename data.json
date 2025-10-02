@@ -1877,6 +1877,44 @@
         ]
       },
       "lastUpdated": "2025-10-02T09:01:54.188Z"
+    },
+    {
+      "id": "member-1759397123246-x7n1rxdew",
+      "username": "Yhane",
+      "carPower": 51,
+      "towerLevel": 29,
+      "timezone": "Asia/Dubai",
+      "availability": {
+        "monday": [
+          "12-14",
+          "14-16"
+        ],
+        "tuesday": [
+          "12-14",
+          "14-16"
+        ],
+        "wednesday": [
+          "12-14",
+          "14-16"
+        ],
+        "thursday": [
+          "12-14",
+          "14-16"
+        ],
+        "friday": [
+          "12-14",
+          "14-16"
+        ],
+        "saturday": [
+          "12-14",
+          "14-16"
+        ],
+        "sunday": [
+          "12-14",
+          "14-16"
+        ]
+      },
+      "lastUpdated": "2025-10-02T09:25:23.246Z"
     }
   ]
 }
