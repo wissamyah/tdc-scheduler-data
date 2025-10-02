@@ -1919,7 +1919,7 @@
     {
       "id": "member-1759397465451-afadpq4e4",
       "username": "Abu majed",
-      "carPower": 244000000,
+      "carPower": 244,
       "towerLevel": 33,
       "timezone": "Asia/Riyadh",
       "availability": {
@@ -1977,7 +1977,7 @@
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-02T09:31:05.451Z"
+      "lastUpdated": "2025-10-02T09:32:34.734Z"
     }
   ]
 }
