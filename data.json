@@ -328,7 +328,7 @@
     {
       "id": "member-1759373349129-hfo2am0uo",
       "username": "ospii",
-      "carPower": 135000000,
+      "carPower": 135,
       "towerLevel": 32,
       "timezone": "America/New_York",
       "availability": {
@@ -375,7 +375,7 @@
           "14-16"
         ]
       },
-      "lastUpdated": "2025-10-02T02:49:09.130Z"
+      "lastUpdated": "2025-10-02T02:49:53.219Z"
     }
   ]
 }
