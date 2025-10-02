@@ -3369,7 +3369,7 @@
     {
       "id": "member-1759431003720-iznso644j",
       "username": "Forceful",
-      "carPower": 186000,
+      "carPower": 186,
       "towerLevel": 35,
       "timezone": "Asia/Riyadh",
       "availability": {
@@ -3456,7 +3456,7 @@
           "14-16"
         ]
       },
-      "lastUpdated": "2025-10-02T18:50:03.720Z"
+      "lastUpdated": "2025-10-02T18:51:52.887Z"
     }
   ]
 }
