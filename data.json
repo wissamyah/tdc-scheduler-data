@@ -3292,6 +3292,37 @@
         ]
       },
       "lastUpdated": "2025-10-02T17:29:34.748Z"
+    },
+    {
+      "id": "member-1759427350571-b5hsfwgv7",
+      "username": "Alak ab",
+      "carPower": 136,
+      "towerLevel": 30,
+      "timezone": "Asia/Dhaka",
+      "availability": {
+        "monday": [
+          "16-18"
+        ],
+        "tuesday": [
+          "16-18"
+        ],
+        "wednesday": [
+          "16-18"
+        ],
+        "thursday": [
+          "16-18"
+        ],
+        "friday": [
+          "16-18"
+        ],
+        "saturday": [
+          "16-18"
+        ],
+        "sunday": [
+          "16-18"
+        ]
+      },
+      "lastUpdated": "2025-10-02T17:49:10.580Z"
     }
   ]
 }
