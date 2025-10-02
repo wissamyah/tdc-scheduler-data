@@ -8,7 +8,7 @@
     {
       "id": "member-1759373097601-lv4dv5zib",
       "username": "Tigerin",
-      "carPower": 953700000,
+      "carPower": 953.7,
       "towerLevel": 33,
       "timezone": "Europe/London",
       "availability": {
@@ -111,7 +111,7 @@
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-02T02:44:57.602Z"
+      "lastUpdated": "2025-10-02T02:50:55.307Z"
     },
     {
       "id": "member-1759373206101-cn55020qa",
