@@ -116,7 +116,7 @@
     {
       "id": "member-1759373206101-cn55020qa",
       "username": "Praisen",
-      "carPower": 160000000,
+      "carPower": 160,
       "towerLevel": 31,
       "timezone": "Europe/Istanbul",
       "availability": {
@@ -219,7 +219,7 @@
           "16-18"
         ]
       },
-      "lastUpdated": "2025-10-02T02:46:46.101Z"
+      "lastUpdated": "2025-10-02T02:51:14.804Z"
     },
     {
       "id": "member-1759373342162-h9821p114",
