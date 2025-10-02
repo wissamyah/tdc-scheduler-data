@@ -1029,7 +1029,7 @@
     {
       "id": "member-1759380009800-vynvlbig6",
       "username": "SiG",
-      "carPower": 81000000,
+      "carPower": 81,
       "towerLevel": 31,
       "timezone": "Europe/Paris",
       "availability": {
@@ -1104,7 +1104,7 @@
           "14-16"
         ]
       },
-      "lastUpdated": "2025-10-02T04:40:09.800Z"
+      "lastUpdated": "2025-10-02T04:41:00.948Z"
     }
   ]
 }
