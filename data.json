@@ -3323,6 +3323,48 @@
         ]
       },
       "lastUpdated": "2025-10-02T17:49:10.580Z"
+    },
+    {
+      "id": "member-1759430580866-0b5duabgw",
+      "username": "Atosh",
+      "carPower": 38,
+      "towerLevel": 30,
+      "timezone": "Europe/Berlin",
+      "availability": {
+        "monday": [
+          "02-04",
+          "16-18"
+        ],
+        "tuesday": [
+          "02-04",
+          "16-18"
+        ],
+        "wednesday": [
+          "02-04",
+          "16-18"
+        ],
+        "thursday": [
+          "02-04",
+          "16-18"
+        ],
+        "friday": [
+          "02-04",
+          "16-18"
+        ],
+        "saturday": [
+          "16-18",
+          "08-10",
+          "18-20",
+          "06-08"
+        ],
+        "sunday": [
+          "06-08",
+          "08-10",
+          "16-18",
+          "18-20"
+        ]
+      },
+      "lastUpdated": "2025-10-02T18:43:00.867Z"
     }
   ]
 }
