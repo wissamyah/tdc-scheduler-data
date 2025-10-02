@@ -1499,7 +1499,7 @@
     {
       "id": "member-1759388136683-wbgsj5u72",
       "username": "699",
-      "carPower": 241000000,
+      "carPower": 241,
       "towerLevel": 32,
       "timezone": "Asia/Dubai",
       "availability": {
@@ -1580,7 +1580,7 @@
           "10-12"
         ]
       },
-      "lastUpdated": "2025-10-02T06:55:36.684Z"
+      "lastUpdated": "2025-10-02T06:56:19.410Z"
     }
   ]
 }
