@@ -23,6 +23,25 @@
         ]
       },
       "lastUpdated": "2025-10-01T23:53:50.294Z"
+    },
+    {
+      "id": "member-1759363698641-j9whe31oo",
+      "username": "Test2",
+      "carPower": 2,
+      "towerLevel": 2,
+      "timezone": "Africa/Lagos",
+      "availability": {
+        "monday": [
+          "02-04"
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-02T00:08:18.642Z"
     }
   ]
 }
