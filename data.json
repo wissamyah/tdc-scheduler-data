@@ -3256,6 +3256,44 @@
         ]
       },
       "lastUpdated": "2025-10-02T16:28:16.671Z"
+    },
+    {
+      "id": "member-1759426174748-j7w8rjhrq",
+      "username": "Baal69",
+      "carPower": 45.6,
+      "towerLevel": 30,
+      "timezone": "Europe/Warsaw",
+      "availability": {
+        "monday": [
+          "14-16",
+          "16-18"
+        ],
+        "tuesday": [
+          "14-16",
+          "16-18"
+        ],
+        "wednesday": [
+          "14-16",
+          "16-18"
+        ],
+        "thursday": [
+          "14-16",
+          "16-18"
+        ],
+        "friday": [
+          "14-16",
+          "16-18"
+        ],
+        "saturday": [
+          "14-16",
+          "16-18"
+        ],
+        "sunday": [
+          "14-16",
+          "16-18"
+        ]
+      },
+      "lastUpdated": "2025-10-02T17:29:34.748Z"
     }
   ]
 }
