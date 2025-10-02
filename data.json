@@ -867,7 +867,7 @@
     {
       "id": "member-1759378257130-gvbmisubg",
       "username": "Ch1mb0mb0",
-      "carPower": 95000000,
+      "carPower": 95,
       "towerLevel": 31,
       "timezone": "America/Santiago",
       "availability": {
@@ -879,7 +879,7 @@
         "saturday": [],
         "sunday": []
       },
-      "lastUpdated": "2025-10-02T04:10:57.130Z"
+      "lastUpdated": "2025-10-02T04:11:38.042Z"
     }
   ]
 }
