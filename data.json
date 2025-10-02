@@ -2379,7 +2379,7 @@
     {
       "id": "member-1759406305664-8xpdkt4nm",
       "username": "RUPERT",
-      "carPower": 746,
+      "carPower": 74.6,
       "towerLevel": 30,
       "timezone": "America/New_York",
       "availability": {
@@ -2426,7 +2426,7 @@
           "22-00"
         ]
       },
-      "lastUpdated": "2025-10-02T11:58:25.664Z"
+      "lastUpdated": "2025-10-02T11:59:06.346Z"
     }
   ]
 }
