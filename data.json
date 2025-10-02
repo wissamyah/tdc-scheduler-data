@@ -2609,6 +2609,44 @@
         ]
       },
       "lastUpdated": "2025-10-02T12:15:06.513Z"
+    },
+    {
+      "id": "member-1759407772327-s671fliav",
+      "username": "Zuy",
+      "carPower": 72,
+      "towerLevel": 31,
+      "timezone": "Asia/Saigon",
+      "availability": {
+        "monday": [
+          "12-14",
+          "14-16"
+        ],
+        "tuesday": [
+          "12-14",
+          "14-16"
+        ],
+        "wednesday": [
+          "12-14",
+          "14-16"
+        ],
+        "thursday": [
+          "12-14",
+          "14-16"
+        ],
+        "friday": [
+          "12-14",
+          "14-16"
+        ],
+        "saturday": [
+          "12-14",
+          "14-16"
+        ],
+        "sunday": [
+          "12-14",
+          "14-16"
+        ]
+      },
+      "lastUpdated": "2025-10-02T12:22:52.327Z"
     }
   ]
 }
