@@ -8,7 +8,7 @@
     {
       "id": "member-1759366067354-3rg15mbh2",
       "username": "Test1",
-      "carPower": 999,
+      "carPower": 100,
       "towerLevel": 33,
       "timezone": "Africa/Lagos",
       "availability": {
@@ -23,7 +23,7 @@
           "22-00"
         ]
       },
-      "lastUpdated": "2025-10-02T00:47:47.354Z"
+      "lastUpdated": "2025-10-02T00:48:02.406Z"
     }
   ]
 }
