@@ -2886,7 +2886,7 @@
     {
       "id": "member-1759419228887-oid6cea5s",
       "username": "Anton Lavey",
-      "carPower": 120000000,
+      "carPower": 120.7,
       "towerLevel": 30,
       "timezone": "Europe/Lisbon",
       "availability": {
@@ -2922,7 +2922,7 @@
           "14-16"
         ]
       },
-      "lastUpdated": "2025-10-02T15:36:46.762Z"
+      "lastUpdated": "2025-10-02T15:39:33.116Z"
     },
     {
       "id": "member-1759419535052-d8jtpeno0",
