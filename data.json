@@ -2816,6 +2816,37 @@
         ]
       },
       "lastUpdated": "2025-10-02T13:58:44.378Z"
+    },
+    {
+      "id": "member-1759414824018-udby3f96z",
+      "username": "Sabrìna",
+      "carPower": 299.8,
+      "towerLevel": 34,
+      "timezone": "Europe/Rome",
+      "availability": {
+        "monday": [
+          "10-12"
+        ],
+        "tuesday": [
+          "10-12"
+        ],
+        "wednesday": [
+          "10-12"
+        ],
+        "thursday": [
+          "10-12"
+        ],
+        "friday": [
+          "10-12"
+        ],
+        "saturday": [
+          "10-12"
+        ],
+        "sunday": [
+          "10-12"
+        ]
+      },
+      "lastUpdated": "2025-10-02T14:20:24.018Z"
     }
   ]
 }
