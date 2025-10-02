@@ -863,6 +863,23 @@
         ]
       },
       "lastUpdated": "2025-10-02T04:01:28.178Z"
+    },
+    {
+      "id": "member-1759378257130-gvbmisubg",
+      "username": "Ch1mb0mb0",
+      "carPower": 95000000,
+      "towerLevel": 31,
+      "timezone": "America/Santiago",
+      "availability": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+      },
+      "lastUpdated": "2025-10-02T04:10:57.130Z"
     }
   ]
 }
