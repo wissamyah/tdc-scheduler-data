@@ -2050,7 +2050,7 @@
     {
       "id": "member-1759399459325-h9ywuf50j",
       "username": "18maratha",
-      "carPower": 13600000,
+      "carPower": 136,
       "towerLevel": 32,
       "timezone": "Asia/Kolkata",
       "availability": {
@@ -2132,7 +2132,7 @@
           "06-08"
         ]
       },
-      "lastUpdated": "2025-10-02T10:04:19.326Z"
+      "lastUpdated": "2025-10-02T10:04:52.143Z"
     }
   ]
 }
