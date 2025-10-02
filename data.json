@@ -1105,6 +1105,44 @@
         ]
       },
       "lastUpdated": "2025-10-02T04:41:00.948Z"
+    },
+    {
+      "id": "member-1759383134054-ynqh4qk2l",
+      "username": "VikontZfP",
+      "carPower": 110000000,
+      "towerLevel": 31,
+      "timezone": "Europe/Amsterdam",
+      "availability": {
+        "monday": [
+          "16-18",
+          "18-20"
+        ],
+        "tuesday": [
+          "16-18",
+          "18-20"
+        ],
+        "wednesday": [
+          "16-18",
+          "18-20"
+        ],
+        "thursday": [
+          "16-18",
+          "18-20"
+        ],
+        "friday": [
+          "16-18",
+          "18-20"
+        ],
+        "saturday": [
+          "16-18",
+          "18-20"
+        ],
+        "sunday": [
+          "16-18",
+          "18-20"
+        ]
+      },
+      "lastUpdated": "2025-10-02T05:32:14.054Z"
     }
   ]
 }
