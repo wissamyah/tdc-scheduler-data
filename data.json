@@ -880,6 +880,44 @@
         "sunday": []
       },
       "lastUpdated": "2025-10-02T04:11:38.042Z"
+    },
+    {
+      "id": "member-1759378624974-5nd1fo3i7",
+      "username": "FreshmanTW",
+      "carPower": 89,
+      "towerLevel": 31,
+      "timezone": "Asia/Hong_Kong",
+      "availability": {
+        "monday": [
+          "10-12",
+          "12-14"
+        ],
+        "tuesday": [
+          "10-12",
+          "12-14"
+        ],
+        "wednesday": [
+          "10-12",
+          "12-14"
+        ],
+        "thursday": [
+          "10-12",
+          "12-14"
+        ],
+        "friday": [
+          "10-12",
+          "12-14"
+        ],
+        "saturday": [
+          "10-12",
+          "12-14"
+        ],
+        "sunday": [
+          "10-12",
+          "12-14"
+        ]
+      },
+      "lastUpdated": "2025-10-02T04:17:04.974Z"
     }
   ]
 }
