@@ -2137,7 +2137,7 @@
     {
       "id": "member-1759400133795-rjoaaaxnm",
       "username": "Sandro38",
-      "carPower": 293000000,
+      "carPower": 293,
       "towerLevel": 33,
       "timezone": "Europe/Paris",
       "availability": {
@@ -2177,7 +2177,7 @@
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-02T10:15:33.795Z"
+      "lastUpdated": "2025-10-02T10:16:06.952Z"
     }
   ]
 }
