@@ -4,5 +4,26 @@
     "initialized": true,
     "initDate": "2025-10-01T23:09:21.805Z"
   },
-  "members": []
+  "members": [
+    {
+      "id": "member-1759366650158-fgzhkvdwo",
+      "username": "Test1",
+      "carPower": 1,
+      "towerLevel": 1,
+      "timezone": "Africa/Lagos",
+      "availability": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": [
+          "20-22",
+          "22-00"
+        ]
+      },
+      "lastUpdated": "2025-10-02T00:57:30.158Z"
+    }
+  ]
 }
