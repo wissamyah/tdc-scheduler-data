@@ -2882,6 +2882,47 @@
         ]
       },
       "lastUpdated": "2025-10-02T14:20:24.018Z"
+    },
+    {
+      "id": "member-1759419228887-oid6cea5s",
+      "username": "Anton Lavey",
+      "carPower": 120700000,
+      "towerLevel": 30,
+      "timezone": "Europe/Lisbon",
+      "availability": {
+        "monday": [
+          "14-16",
+          "16-18"
+        ],
+        "tuesday": [
+          "14-16",
+          "16-18"
+        ],
+        "wednesday": [
+          "14-16",
+          "16-18"
+        ],
+        "thursday": [
+          "14-16",
+          "16-18"
+        ],
+        "friday": [
+          "14-16",
+          "16-18"
+        ],
+        "saturday": [
+          "10-12",
+          "12-14",
+          "14-16",
+          "16-18"
+        ],
+        "sunday": [
+          "10-12",
+          "12-14",
+          "14-16"
+        ]
+      },
+      "lastUpdated": "2025-10-02T15:33:48.887Z"
     }
   ]
 }
