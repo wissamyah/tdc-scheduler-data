@@ -1323,7 +1323,7 @@
     {
       "id": "member-1759387393727-v3g43woxj",
       "username": "Heacius",
-      "carPower": 208000000,
+      "carPower": 208,
       "towerLevel": 32,
       "timezone": "Asia/Tokyo",
       "availability": {
@@ -1390,7 +1390,7 @@
           "10-12"
         ]
       },
-      "lastUpdated": "2025-10-02T06:43:13.727Z"
+      "lastUpdated": "2025-10-02T06:43:44.545Z"
     }
   ]
 }
