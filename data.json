@@ -4,46 +4,5 @@
     "initialized": true,
     "initDate": "2025-10-01T23:09:21.805Z"
   },
-  "members": [
-    {
-      "id": "member-1759366067354-3rg15mbh2",
-      "username": "Test1",
-      "carPower": 100,
-      "towerLevel": 33,
-      "timezone": "Africa/Lagos",
-      "availability": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": [
-          "20-22",
-          "22-00"
-        ]
-      },
-      "lastUpdated": "2025-10-02T00:48:02.406Z"
-    },
-    {
-      "id": "member-1759366557462-785h5jxz4",
-      "username": "Test2",
-      "carPower": 2,
-      "towerLevel": 1,
-      "timezone": "Africa/Lagos",
-      "availability": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": [
-          "20-22",
-          "22-00"
-        ]
-      },
-      "lastUpdated": "2025-10-02T00:55:57.462Z"
-    }
-  ]
+  "members": []
 }
