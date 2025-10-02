@@ -2427,6 +2427,37 @@
         ]
       },
       "lastUpdated": "2025-10-02T11:59:06.346Z"
+    },
+    {
+      "id": "member-1759406704087-7v6hoqw42",
+      "username": "Matthias68lol",
+      "carPower": 1.8,
+      "towerLevel": 30,
+      "timezone": "Europe/Paris",
+      "availability": {
+        "monday": [
+          "20-22"
+        ],
+        "tuesday": [
+          "20-22"
+        ],
+        "wednesday": [
+          "20-22"
+        ],
+        "thursday": [
+          "20-22"
+        ],
+        "friday": [
+          "20-22"
+        ],
+        "saturday": [
+          "20-22"
+        ],
+        "sunday": [
+          "20-22"
+        ]
+      },
+      "lastUpdated": "2025-10-02T12:05:04.087Z"
     }
   ]
 }
