@@ -3613,7 +3613,7 @@
       "id": "member-1759441899110-szhmrwkcc",
       "username": "TR Antalya",
       "carPower": 70.5,
-      "towerLevel": 2,
+      "towerLevel": 32,
       "timezone": "Europe/Istanbul",
       "availability": {
         "monday": [
@@ -3659,7 +3659,7 @@
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-02T21:51:39.110Z"
+      "lastUpdated": "2025-10-02T21:52:52.167Z"
     }
   ]
 }
