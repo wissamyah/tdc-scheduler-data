@@ -2409,16 +2409,16 @@
       "lastUpdated": "2025-10-02T15:26:24.562Z"
     },
     {
-      "id": "member-1759406984467-txhod17eo",
+      "id": "member-1759525266130-burpc59m8",
       "username": "Swedefence",
-      "carPower": 30.1,
+      "carPower": 31.5,
       "towerLevel": 30,
       "timezone": "Europe/Stockholm",
       "availability": {
         "monday": [
           "04-06",
-          "16-18",
-          "18-20"
+          "18-20",
+          "16-18"
         ],
         "tuesday": [
           "04-06",
@@ -2442,18 +2442,16 @@
         ],
         "saturday": [
           "04-06",
-          "06-08",
           "16-18",
           "18-20"
         ],
         "sunday": [
           "04-06",
-          "06-08",
           "16-18",
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-02T12:09:44.467Z"
+      "lastUpdated": "2025-10-03T21:01:06.130Z"
     },
     {
       "id": "member-1759407306513-8kvq10azt",
