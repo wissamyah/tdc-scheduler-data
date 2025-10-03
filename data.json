@@ -3586,5 +3586,19 @@
       },
       "lastUpdated": "2025-10-03T04:14:58.209Z"
     }
+  ],
+  "events": [
+    {
+      "id": "evt_1759530456653",
+      "name": "Test Event",
+      "date": "2025-10-03",
+      "startTime": "02:30",
+      "endTime": "03:30",
+      "description": "",
+      "createdBy": "Falowyn",
+      "createdByRole": "admin",
+      "createdAt": "2025-10-03T22:27:36.653Z",
+      "rsvps": {}
+    }
   ]
 }
