@@ -3732,7 +3732,7 @@
     {
       "id": "member-1759501986024-tkwiva2zf",
       "username": "Test1",
-      "carPower": 9999,
+      "carPower": 999,
       "towerLevel": 35,
       "timezone": "Africa/Lagos",
       "availability": {
@@ -3747,7 +3747,7 @@
           "22-00"
         ]
       },
-      "lastUpdated": "2025-10-03T14:33:06.025Z"
+      "lastUpdated": "2025-10-03T14:35:18.875Z"
     }
   ]
 }
