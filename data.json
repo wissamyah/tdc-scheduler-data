@@ -1234,16 +1234,16 @@
       "lastUpdated": "2025-10-03T20:16:45.803Z"
     },
     {
-      "id": "member-1759387393727-v3g43woxj",
+      "id": "member-1759546493999-28i5i0xkv",
       "username": "Heacius",
-      "carPower": 208,
+      "carPower": 209,
       "towerLevel": 32,
       "timezone": "Asia/Tokyo",
       "availability": {
         "monday": [
+          "08-10",
           "10-12",
           "12-14",
-          "08-10",
           "06-08",
           "14-16",
           "16-18",
@@ -1303,7 +1303,7 @@
           "10-12"
         ]
       },
-      "lastUpdated": "2025-10-02T06:43:44.545Z"
+      "lastUpdated": "2025-10-04T02:54:53.999Z"
     },
     {
       "id": "member-1759519768959-hoe32m6db",
