@@ -1020,42 +1020,49 @@
       "lastUpdated": "2025-10-03T21:23:52.840Z"
     },
     {
-      "id": "member-1759383134054-ynqh4qk2l",
+      "id": "member-1759562387634-zqvb7qybz",
       "username": "VikontZfP",
       "carPower": 110,
       "towerLevel": 31,
-      "timezone": "Europe/Amsterdam",
+      "timezone": "Europe/Berlin",
       "availability": {
         "monday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "tuesday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "wednesday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "thursday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "friday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "saturday": [
           "16-18",
-          "18-20"
+          "18-20",
+          "02-04"
         ],
         "sunday": [
-          "16-18",
-          "18-20"
+          "02-04",
+          "18-20",
+          "16-18"
         ]
       },
-      "lastUpdated": "2025-10-02T05:32:49.867Z"
+      "lastUpdated": "2025-10-04T07:19:47.634Z"
     },
     {
       "id": "member-1759386378018-mae7y9cqq",
