@@ -3588,7 +3588,7 @@
       "id": "member-1759538562416-ldjni2zjm",
       "username": "alecss",
       "carPower": 105,
-      "towerLevel": 1,
+      "towerLevel": 31,
       "timezone": "Europe/Bucharest",
       "availability": {
         "monday": [
@@ -3666,7 +3666,7 @@
           "18-20"
         ]
       },
-      "lastUpdated": "2025-10-04T00:42:42.416Z"
+      "lastUpdated": "2025-10-04T00:46:48.470Z"
     }
   ],
   "events": []
