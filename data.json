@@ -3670,6 +3670,48 @@
         ]
       },
       "lastUpdated": "2025-10-04T00:46:48.470Z"
+    },
+    {
+      "id": "member-1759789956728-knzeomxbb",
+      "username": "Hodini",
+      "carPower": 51,
+      "towerLevel": 30,
+      "timezone": "Asia/Jerusalem",
+      "availability": {
+        "monday": [
+          "00-02",
+          "02-04"
+        ],
+        "tuesday": [
+          "00-02",
+          "02-04"
+        ],
+        "wednesday": [
+          "00-02",
+          "02-04"
+        ],
+        "thursday": [
+          "00-02",
+          "02-04"
+        ],
+        "friday": [
+          "00-02",
+          "02-04",
+          "04-06",
+          "20-22",
+          "22-00"
+        ],
+        "saturday": [
+          "00-02",
+          "02-04",
+          "04-06"
+        ],
+        "sunday": [
+          "00-02",
+          "02-04"
+        ]
+      },
+      "lastUpdated": "2025-10-06T22:32:36.728Z"
     }
   ],
   "events": []
