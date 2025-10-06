@@ -803,42 +803,35 @@
       "lastUpdated": "2025-10-06T22:38:16.343Z"
     },
     {
-      "id": "member-1759378624974-5nd1fo3i7",
+      "id": "member-1759794864979-zmz9031c6",
       "username": "FreshmanTW",
-      "carPower": 89,
+      "carPower": 100,
       "towerLevel": 31,
-      "timezone": "Asia/Hong_Kong",
+      "timezone": "Asia/Taipei",
       "availability": {
         "monday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "tuesday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "wednesday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "thursday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "friday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "saturday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ],
         "sunday": [
-          "10-12",
-          "12-14"
+          "10-12"
         ]
       },
-      "lastUpdated": "2025-10-02T04:17:04.974Z"
+      "lastUpdated": "2025-10-06T23:54:24.979Z"
     },
     {
       "id": "member-1759378886724-0jr9f417v",
