@@ -3970,6 +3970,44 @@
         ]
       },
       "lastUpdated": "2025-10-10T16:30:43.755Z"
+    },
+    {
+      "id": "member-1760124488261-fps5uts9y",
+      "username": "Wurschtsepp",
+      "carPower": 3500000,
+      "towerLevel": 29,
+      "timezone": "Europe/Berlin",
+      "availability": {
+        "monday": [
+          "14-16"
+        ],
+        "tuesday": [
+          "14-16",
+          "00-02"
+        ],
+        "wednesday": [
+          "14-16",
+          "00-02"
+        ],
+        "thursday": [
+          "10-12",
+          "00-02"
+        ],
+        "friday": [
+          "14-16",
+          "00-02"
+        ],
+        "saturday": [
+          "14-16",
+          "10-12",
+          "06-08"
+        ],
+        "sunday": [
+          "10-12",
+          "14-16"
+        ]
+      },
+      "lastUpdated": "2025-10-10T19:28:08.261Z"
     }
   ],
   "events": []
