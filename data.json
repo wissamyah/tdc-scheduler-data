@@ -3974,7 +3974,7 @@
     {
       "id": "member-1760124488261-fps5uts9y",
       "username": "Wurschtsepp",
-      "carPower": 3500000,
+      "carPower": 35,
       "towerLevel": 29,
       "timezone": "Europe/Berlin",
       "availability": {
@@ -4007,7 +4007,7 @@
           "14-16"
         ]
       },
-      "lastUpdated": "2025-10-10T19:28:08.261Z"
+      "lastUpdated": "2025-10-10T19:31:58.825Z"
     }
   ],
   "events": []
