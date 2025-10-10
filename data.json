@@ -3873,7 +3873,7 @@
     {
       "id": "member-1760113745448-0dyoafl74",
       "username": "Lisa",
-      "carPower": 9200000,
+      "carPower": 92,
       "towerLevel": 30,
       "timezone": "Europe/London",
       "availability": {
@@ -3969,7 +3969,7 @@
           "20-22"
         ]
       },
-      "lastUpdated": "2025-10-10T16:29:05.448Z"
+      "lastUpdated": "2025-10-10T16:30:43.755Z"
     }
   ],
   "events": []
