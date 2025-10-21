@@ -3522,9 +3522,9 @@
       "lastUpdated": "2025-10-15T01:33:50.431Z"
     },
     {
-      "id": "member-1760594440734-fgkyyetvo",
+      "id": "member-1761041079083-8b3qk1n92",
       "username": "alecss",
-      "carPower": 121,
+      "carPower": 135,
       "towerLevel": 31,
       "timezone": "Europe/Bucharest",
       "availability": {
@@ -3561,9 +3561,9 @@
           "02-04",
           "04-06",
           "06-08",
-          "08-10",
           "10-12",
           "12-14",
+          "08-10",
           "14-16",
           "16-18",
           "18-20",
@@ -3627,7 +3627,7 @@
           "16-18"
         ]
       },
-      "lastUpdated": "2025-10-16T06:00:40.734Z"
+      "lastUpdated": "2025-10-21T10:04:39.083Z"
     },
     {
       "id": "member-1759789956728-knzeomxbb",
